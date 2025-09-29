@@ -1,5 +1,6 @@
 {
     "name": "servo-control",
+    "version": "0.0.1",
     "description": "Extension to control servo motors with angle input",
     "dependencies": {
         "microphone": "*"
